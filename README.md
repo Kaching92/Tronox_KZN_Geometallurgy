@@ -19,7 +19,7 @@ A comprehensive geometallurgical dashboard for real-time mining and metallurgica
 
 ```bash
 # Install dependencies
-pip install -r requirements.txt
+pip install -r requirements.txt  
 
 # Run locally
 python -m streamlit run dashboards/operations_dashboard.py
