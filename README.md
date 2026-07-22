@@ -23,3 +23,5 @@ pip install -r requirements.txt
 
 # Run locally
 python -m streamlit run dashboards/operations_dashboard.py
+
+.
